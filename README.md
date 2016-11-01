@@ -56,3 +56,4 @@ This document is mostly for my personal use, don't expect details or a readable 
 - kana test
 - dosbox
 - texlive-base
+- autokey
